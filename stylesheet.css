@@ -19,7 +19,7 @@ ul{
 }
 .main {
     background-color:rgb(255, 255, 255);
-    height:550px;
+    height:500px;
     color:black;
 }
 .main h3{
@@ -27,7 +27,7 @@ ul{
      padding-left:60px;
 }
 .main strong{
-    padding-left:170px;
+    padding-left:200px;
     font-size:40px;
     color:red;
    
@@ -52,4 +52,9 @@ img{
 span{
     color:rgb(69, 238, 201);
     font-size:50px;
+}
+h4{
+    float:right;
+    padding-right:400px;
+    font-size:20px;
 }
